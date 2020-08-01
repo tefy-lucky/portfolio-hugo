@@ -1,0 +1,76 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Software Engineer | Problem solver
+# your company information
+#company:
+  #name: Example Co.
+  #url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "A lazy man who is passionate about mathematics, science, programming, problem solving, automation and AI. I'm currently working on how we can apply AI to solve real world problems. Beside all that, I love automating boring stuffs, spending time with my family and friends and playing video games."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "tefy.rakotomahefa@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/tefy-lucky"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tefy-lucky-rakotomahefa-9032421a4/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+- name: Communication
+  percentage: 80
+  color: yellow
+- name: Creativity
+  percentage: 90
+  color: pink
+#- name: Logic
+#  percentage: 85
+#  color: green
+- name: Leadership
+  percentage: 60
+  color: sky
+- name: Problem-solving
+  percentage: 95
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

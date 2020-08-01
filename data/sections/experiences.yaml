@@ -1,0 +1,86 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Omdena
+    url: "https://omdena.com/"
+    #location: Antananarivo, Madagascar
+    overview: Omdena is the collaborative platform to build innovative, ethical, and efficient AI and Data Science solutions to real-world problems.
+  positions:
+  - designation: Junior Machine Learning Engineer
+    start: March 2020
+    #end: January 2019
+    responsibilities:
+    - Build solutions to predict affected populations and create customized relief packages for AI Disaster prevention.
+    
+- company:
+    name: eTech
+    url: "https://www.etechconsulting-mg.com/"
+    location: Antananarivo, MADAGASCAR
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Software Engineer
+    start: January 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop web services development for an application called LOOP using their framework Yupana, NodeJS, and ES6.
+    - Develop a real state website using Ghost CMS, NodeJS, and ES6.
+
+#  - designation: Junior Software Engineer
+#    start: Nov 2017
+#    end: Oct 2019
+#    responsibilities:
+#    - Implement and test xyz feature for abc tool.
+#    - Support client for abc tool.
+#    - Learn k,d,w technology for xyz.
+
+- company:
+    name: NELLI STUDIO
+    #url: "https://www.preexample.com"
+    location: Antananarivo, MADAGASCAR
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: AR/Game Developer
+    start: July 2016
+    end: January 2019
+    responsibilities:
+    - Develop interactive applications using JAVA for Android and React Native.
+    - Develop video games using Unity.
+    - Develop augmented reality apps using Vuforia.
+    
+- company:
+    name: CONNECTIC DATA
+    #url: "https://www.preexample.com"
+    location: Antananarivo, MADAGASCAR
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Mobile App Developer
+    start: September 2015
+    end: July 2016
+    responsibilities:
+    - Develop casual games using Java for Android, Phaser, and Cocos2d-JS.
+    - Develop web services using the framework Slim.
+
+- company:
+    name: NOVEO & BKGCOM
+    #url: "https://www.intern.com"
+    location: Antananarivo, MADAGASCAR
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Intern
+    start: 2014
+    end: 2014
+    responsibilities:
+    - Develop a real-time four players card game called "Belote Malagasy". 
+    - Design and implement the app structure using Nodejs and Express for the back-end and Bootstrap for the front-end.

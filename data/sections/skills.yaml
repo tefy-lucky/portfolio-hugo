@@ -1,0 +1,25 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  icon: "images/skills/python.png"
+  summary: "My weapon of choice. Most of my personal projects are coded using Python. Why? Because I'm in love with it"
+  url: https://kubernetes.io/
+  
+- name: ES6
+  icon: "images/skills/javascript.png"
+  summary: "My everyday weapon. I use it at work, combined with librairies like jQuery"
+
+- name: Git
+  icon: "images/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
